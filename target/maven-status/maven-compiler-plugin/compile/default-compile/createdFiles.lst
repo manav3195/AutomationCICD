@@ -1,0 +1,8 @@
+com\selenium\practice\SeleniumFrameworkDesign\pageobjects\CartPage.class
+com\selenium\practice\SeleniumFrameworkDesign\pageobjects\OrderPage.class
+com\selenium\practice\SeleniumFrameworkDesign\pageobjects\CheckoutPage.class
+com\selenium\practice\SeleniumFrameworkDesign\pageobjects\ConfirmationPage.class
+com\selenium\practice\SeleniumFrameworkDesign\resources\ExtentReporterNG.class
+com\selenium\practice\SeleniumFrameworkDesign\pageobjects\LandingPage.class
+com\selenium\practice\SeleniumFrameworkDesign\AbstractComponents\AbstractComponent.class
+com\selenium\practice\SeleniumFrameworkDesign\pageobjects\ProductCatalogue.class

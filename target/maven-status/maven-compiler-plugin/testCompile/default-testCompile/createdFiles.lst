@@ -1,0 +1,8 @@
+com\selenium\practice\SeleniumFrameworkDesign\TestComponents\BaseTest.class
+com\selenium\practice\SeleniumFrameworkDesign\Tests\ExtentReportStandaloneTest.class
+com\selenium\practice\SeleniumFrameworkDesign\TestComponents\Listeners.class
+com\selenium\practice\SeleniumFrameworkDesign\Tests\StandAloneTest.class
+com\selenium\practice\SeleniumFrameworkDesign\TestComponents\BaseTest$1.class
+com\selenium\practice\SeleniumFrameworkDesign\Tests\ErrorValidations.class
+com\selenium\practice\SeleniumFrameworkDesign\TestComponents\Retry.class
+com\selenium\practice\SeleniumFrameworkDesign\Tests\SubmitOrderTest.class
